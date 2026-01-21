@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1,M+ LIGA DE CAMPEONES 4K --> NEW ERA
+acestream://
+152169ce99e1fd27f2249c18384a121079cdef29
+
 #EXTINF:-1,MatchTV (HD)
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
