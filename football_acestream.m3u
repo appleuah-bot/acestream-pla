@@ -117,7 +117,6 @@ acestream://
 acestream://
 eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-
 #EXTINF:-1,DAZN 1 Bar HD [DE]
 acestream://
 897e73c9d578848f596585314ecb9ae067c0e229
@@ -152,16 +151,22 @@ ed81c333815247536edfcdb2755147e8c4144d62
 acestream://
 7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 
+#EXTINF:-1,Ziggo Sport 3
+acestream://
+7f50e06f715720e944cce35fa90b6b7a8db04b2e
+
+#EXTINF:-1,Ziggo Sport 4
+acestream://
+36dfc36084b2138d3451c4700b462ac1094d693d
+
 
 #EXTINF:-1,Ziggo Sport 2
 acestream://
 868a6187d6aeec65ded84bd777814c9f7b7a9027
 
-
 #EXTINF:-1,Ziggo Sport 6
 acestream://
 9231f38e71a85ad24b4c11a5e360992e30c916ed
-
 
 
 
