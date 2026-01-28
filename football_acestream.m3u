@@ -47,9 +47,13 @@ acestream://
 acestream://
 dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-#EXTINF:-1,Sky Sports Football [UK] PL
+#EXTINF:-1,Sky Sports Main Event [UK]
 acestream://
-8dbe2d515e9131fa311353537736f8c94be9b26d
+eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1,Sky Sport 1 [AU]
+acestream://
+eec3f8107e008cec3679f76e078deeefd1348a3e
 
 #EXTINF:-1,Setanta Sports 1 HD PL
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
@@ -163,6 +167,10 @@ acestream://aca05dc506242324c1727525d0535ceda24f8dea
 
 #EXTINF:-1,PIMPLETV.RU 3 (BL)
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1,Sky Sports Football [UK] PL
+acestream://
+8dbe2d515e9131fa311353537736f8c94be9b26d
 
 #EXTINF:-1,Eleven Sports 1 4k [PL]
 acestream://
