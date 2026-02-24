@@ -61,6 +61,9 @@ eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1,Okko Sport 2 HD (RU)
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
+#EXTINF:-1,Okko Sport 5 HD (RU) 
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+
 #EXTINF:-1,Okko Sport 3 HD (RU)
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 
@@ -81,9 +84,6 @@ acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
 
 #EXTINF:-1,PIMPLETV.RU 2 (BL)
 acestream://aca05dc506242324c1727525d0535ceda24f8dea
-
-#EXTINF:-1,PIMPLETV.RU 3 (BL)
-acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1,Canal+ Family HD [PL]
 acestream://
