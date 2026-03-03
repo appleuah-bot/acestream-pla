@@ -1,15 +1,17 @@
 #EXTM3U
 
-
-#EXTINF:-1,MatchTV (HD) (RU) (LaLiga)
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
 #EXTINF:-1,M.Football 2 (RU) (LaLiga)
 acestream://
 ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1,Okko Sport 3 HD (RU)
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1,MatchTV (HD) (RU) (LaLiga)
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+#EXTINF:-1,SPORT TV 2 HD
+acestream://d8adc12780ce2ec8a3f5afda63606382a480e85c
 
 #EXTINF:-1,PIMPLETV.RU (LaLiga)
 acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
@@ -53,16 +55,16 @@ dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1,LaLiga TV HD 
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
+#EXTINF:-1,Sky Sports 4K Main Event [UK]
+acestream://
+eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
 #EXTINF:-1,Setanta Qazaqstan RU PL
 acestream://aca05dc506242324c1727525d0535ceda24f8dea
 
 #EXTINF:-1,Eleven Sports 4 [BE] 
 acestream://
 0f32c0131a2d9444996410801f4e18b04384db98
-
-#EXTINF:-1,Sky Sports Main Event [UK]
-acestream://
-eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1BT Sport 1 HD EN
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -81,7 +83,6 @@ acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 
 #EXTINF:-1,Setanta Sports 1 HD PL
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-
 
 #EXTINF:-1,PIMPLETV.RU 1 (BL)
 acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
@@ -235,10 +236,6 @@ acestream://
 #EXTINF:-1,BCU Cinema+ HD [RU]
 acestream://
 4d6232def7e751c47eb44a017021055e8362b54a
-
-
-
-​
 
 
 
