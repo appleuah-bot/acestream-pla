@@ -13,7 +13,7 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1,SPORT TV 2 HD
 acestream://d8adc12780ce2ec8a3f5afda63606382a480e85c
 
-#EXTINF:-1,Setanta Sports 2 HD RU (LaLiga/BL)
+#EXTINF:-1,Setanta Sports 2 HD RU 
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1,PIMPLETV.RU 1 (BL)
@@ -34,6 +34,9 @@ acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1,Okko Sport 5 HD (RU) 
 acestream://65d49691687add6a93692a757817bac4f204ed1f
 
+#EXTINF:-1,Okko Sport 4 HD (RU)
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+
 #EXTINF:-1,DAZN 1 Bar HD [DE]
 acestream://
 897e73c9d578848f596585314ecb9ae067c0e229
@@ -42,14 +45,14 @@ acestream://
 acestream://
 12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-#EXTINF:-1,Sky Sports 4K Main Event [UK]
+#EXTINF:-1,SkySports 4K MainEven. [UK]
 acestream://
 eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1,ELEVEN SPORTS 1 HD (PL/LaLiga)
+#EXTINF:-1,ELEVEN SPORTS 1 HD (LL)
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1,ELEVEN SPORTS 2 HD / DAZN2 (LaLiga)
+#EXTINF:-1,ELEVEN SPORTS 2 HD / DAZN2 (LL)
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1,Canal+ Sport [PL] (LaLiga)
@@ -82,11 +85,15 @@ acestream://
 #EXTINF:-1,BT Sport 1 HD EN
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1,Okko Sport 4 HD (RU)
-acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-
 #EXTINF:-1,Setanta Sports 1 HD PL
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1,Sky Sports Football [UK] PL
+acestream://
+8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1,Sport TV 3 HD (PT)
+acestream://0891665b3d5b40b58129a021314286b96e1910c6
 
 #EXTINF:-1,TVP Sport HD [PL]
 acestream://
@@ -122,9 +129,11 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1,ELEVEN SPORTS 3 HD / DAZN3 PL
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
-#EXTINF:-1,Sky Sports Football [UK] PL
-acestream://
-8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1,Fox Sports 2 HD
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+
+#EXTINF:-1,POLSAT SPORT PREMIUM 1 HD
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 
 #EXTINF:-1,MatchFootball1 (RU)
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
@@ -231,5 +240,4 @@ acestream://
 acestream://
 4d6232def7e751c47eb44a017021055e8362b54a
 
-
-
+​
