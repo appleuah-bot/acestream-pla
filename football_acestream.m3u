@@ -6,6 +6,9 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1,Okko Sport 2 HD (RU)
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
+#EXTINF:-1,Okko Sport 3 HD (RU)
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+
 #EXTINF:-1,Match Premier HD
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
@@ -15,9 +18,6 @@ acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1,M.Football 2 (RU) (LaLiga)
 acestream://
 ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1,Okko Sport 3 HD (RU)
-acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1,Setanta Sports 1 HD PL
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
@@ -30,6 +30,9 @@ acestream://d8adc12780ce2ec8a3f5afda63606382a480e85c
 
 #EXTINF:-1,Setanta Sports 2 HD RU 
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1,DAZN1
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1,PIMPLETV.RU 1 (BL)
 acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
@@ -60,9 +63,6 @@ acestream://
 #EXTINF:-1,SkySports 4K MainEven. [UK]
 acestream://
 eab7aeef0218ce8b0752e596e4792b69eda4df5e
-
-#EXTINF:-1,ELEVEN SPORTS 1 HD (LL)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1,ELEVEN SPORTS 2 HD / DAZN2 (LL)
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
